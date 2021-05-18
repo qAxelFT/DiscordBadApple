@@ -13,7 +13,7 @@ namespace Token
     }
 }
 ```
-and then run `dotnet run`, optionally you can compiled it with `dotnet build`
+and then run `dotnet run`, optionally you can compile it with `dotnet build`
 
 
 
