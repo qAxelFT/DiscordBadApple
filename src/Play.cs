@@ -31,11 +31,12 @@ namespace Play
             }
             
             Console.Clear();
+            sw.Stop();
+            sw.Reset();
             Commands.isRunning = false;
         }
         public static int getTimeElapsed()
         {
-            int timePassed = te;
             int deltaTime = videoTime - te;
             return deltaTime;
         }

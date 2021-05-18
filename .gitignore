@@ -1,2 +1,4 @@
 src/Token.cs
 .vscode
+bin/
+obj/Debug
